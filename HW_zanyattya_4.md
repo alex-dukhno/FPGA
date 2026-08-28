@@ -1,4 +1,4 @@
-ДОМАШНЄ ЗАВДАННЯ 4: Verilog/SystemVerilog для синтезу
+# Домашнє завдання №1 — Verilog/SystemVerilog для синтезу
 
 Для всіх завдань треба створити RTL проект в Vivado (Quartus
 якщо у вас Altera) і створити verilog (VHDL) file.
