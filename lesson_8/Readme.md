@@ -7,3 +7,6 @@
 <br>
 [Clock Domain Crossing All Parts Combined](Doc/cdcallparts-241010160546-f3a0757d.pdf) <br>
 The document discusses the critical aspects of clock domain crossing (CDC) in digital circuit design <br>
+<br>
+[Design elements for 7 series architectures](https://docs.amd.com/r/en-US/ug953-vivado-7series-libraries/Design-Elements)<br>
+This section describes the design elements that can be used with 7 series FPGAs and Zynq™ 7000 SoC devices.
